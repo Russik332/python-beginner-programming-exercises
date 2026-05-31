@@ -1,4 +1,4 @@
 # ✅ ↓ your code here ↓ ✅
 
-name: str = "Yellow"
-print(name)
+color: str = "Yellow"
+print(color)
