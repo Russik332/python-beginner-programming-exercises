@@ -11,3 +11,5 @@ h = '<body>'
 
 # ✅ ↓ start coding below here ↓ ✅
 
+HTML_document = e + c + g + a + f + h + d + b
+print(HTML_document)
